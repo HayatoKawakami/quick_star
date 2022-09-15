@@ -5,7 +5,7 @@
 直感的に一瞬で理解できるように
 
 ワイヤーフレーム
-→ https://xd.adobe.com/view/8439aaa3-1506-47ae-a6a0-0a5a9540367f-d16a/?fullscreen
+→ https://xd.adobe.com/view/32d90d34-fd33-445c-846b-bb9a56b33c90-678a/screen/97366ff7-7710-460a-a1b3-898070f12c13?fullscreen&hints=off
 
 デザインカンプ
 →
